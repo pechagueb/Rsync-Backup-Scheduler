@@ -1,0 +1,5 @@
+{
+  "name": "Cronicle: Rsync Backup Scheduler",
+  "description": "An application to visually create, manage, and schedule rsync backup jobs using cron. It features a Gemini-powered assistant to help generate backup configurations from natural language descriptions.",
+  "requestFramePermissions": []
+}
